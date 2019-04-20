@@ -6,17 +6,17 @@
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="14"/>
         <source>APT Repository Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Repertòri APT</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="38"/>
         <source>APT Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Repertòri APT</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="48"/>
         <source>Components</source>
-        <translation type="unfinished"></translation>
+        <translation>Compausants</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="55"/>
@@ -26,37 +26,37 @@
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="71"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="87"/>
         <source>Fields cannot be left blank. </source>
-        <translation type="unfinished">Los camps pòdon pas èsser voids</translation>
+        <translation>Los camps pòdon pas èsser voids</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="94"/>
         <source>URI</source>
-        <translation type="unfinished"></translation>
+        <translation>URI</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="110"/>
         <source>Save</source>
-        <translation type="unfinished">Salvar</translation>
+        <translation>Salvar</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="133"/>
         <source>Distribution</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribucion</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="152"/>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Font</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="177"/>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Binari</translation>
     </message>
 </context>
 <context>
@@ -64,63 +64,63 @@
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="188"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cercar...</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="226"/>
         <source>Edit</source>
-        <translation type="unfinished">Modificar</translation>
+        <translation>Modificar</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="14"/>
         <source>APT Repository Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestion del repertòri APT</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="125"/>
         <source>Not Found APT Repositories</source>
-        <translation type="unfinished"></translation>
+        <translation>Repertòri APT pas trobat</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="269"/>
         <source>Delete</source>
-        <translation type="unfinished">Suprimir</translation>
+        <translation>Suprimir</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="308"/>
         <source>Enable Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar la font</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="338"/>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="86"/>
         <source>Add Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Apondre un repertòri</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="371"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anullar</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="419"/>
         <source>Select to delete or edit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar se cal suprimir o modificar</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="25"/>
         <source>example %1</source>
-        <translation type="unfinished"></translation>
+        <translation>exemple %1</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="59"/>
         <source>APT Repositories (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Repertòris APT (%1)</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="66"/>
         <source>Save</source>
-        <translation type="unfinished">Salvar</translation>
+        <translation>Salvar</translation>
     </message>
 </context>
 <context>
@@ -128,7 +128,7 @@
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_repository_item.cpp" line="34"/>
         <source>%1 (Source Code)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Còdi font)</translation>
     </message>
 </context>
 <context>
@@ -141,7 +141,7 @@
     <message>
         <location filename="../stacer/app.ui" line="135"/>
         <source>Startup Apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicacions en aviar</translation>
     </message>
     <message>
         <location filename="../stacer/app.ui" line="163"/>
@@ -151,7 +151,7 @@
     <message>
         <location filename="../stacer/app.ui" line="306"/>
         <source>APT Repository Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestion de repertòri APT</translation>
     </message>
     <message>
         <location filename="../stacer/app.ui" line="250"/>
@@ -171,12 +171,12 @@
     <message>
         <location filename="../stacer/app.ui" line="194"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Servicis</translation>
     </message>
     <message>
         <location filename="../stacer/app.ui" line="334"/>
         <source>Gnome Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres Gnome</translation>
     </message>
     <message>
         <location filename="../stacer/app.ui" line="362"/>
@@ -186,12 +186,12 @@
     <message>
         <location filename="../stacer/app.ui" line="403"/>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentari</translation>
     </message>
     <message>
         <location filename="../stacer/app.cpp" line="111"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar</translation>
     </message>
 </context>
 <context>
@@ -665,7 +665,7 @@
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.ui" line="14"/>
         <source>Resources</source>
-        <translation type="unfinished">Ressorsas</translation>
+        <translation>Ressorsas</translation>
     </message>
 </context>
 <context>
@@ -673,7 +673,7 @@
     <message>
         <location filename="../stacer/Pages/Services/services_page.ui" line="14"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Servicis</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Services/services_page.ui" line="137"/>
@@ -718,7 +718,7 @@
     <message>
         <location filename="../stacer/Pages/Services/services_page.cpp" line="28"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivats</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Services/services_page.cpp" line="75"/>
@@ -731,7 +731,7 @@
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="20"/>
         <source>Settings</source>
-        <translation type="unfinished">Paramètres</translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="110"/>
@@ -746,7 +746,7 @@
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="233"/>
         <source>Disks</source>
-        <translation type="unfinished"></translation>
+        <translation>Disques</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="246"/>
@@ -766,7 +766,7 @@
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="422"/>
         <source>Start Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina d’acuèlh</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="301"/>
@@ -781,7 +781,7 @@
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="355"/>
         <source>Donate</source>
-        <translation type="unfinished"></translation>
+        <translation>Don</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="97"/>
@@ -791,37 +791,37 @@
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.cpp" line="74"/>
         <source>Dashboard</source>
-        <translation type="unfinished">Panèl de configuracion</translation>
+        <translation>Panèl de configuracion</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.cpp" line="74"/>
         <source>Startup Apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicacions a l’aviada</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.cpp" line="74"/>
         <source>System Cleaner</source>
-        <translation type="unfinished">Netejador sistèma</translation>
+        <translation>Netejador sistèma</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.cpp" line="75"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Servicis</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.cpp" line="75"/>
         <source>Processes</source>
-        <translation type="unfinished">Processús</translation>
+        <translation>Processús</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.cpp" line="75"/>
         <source>Uninstaller</source>
-        <translation type="unfinished">Desinstallador</translation>
+        <translation>Desinstallador</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.cpp" line="75"/>
         <source>Resources</source>
-        <translation type="unfinished">Ressorsas</translation>
+        <translation>Ressorsas</translation>
     </message>
 </context>
 <context>
@@ -834,7 +834,7 @@
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_app.ui" line="150"/>
         <source>Delete App</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprimir l’aplicacion</translation>
     </message>
 </context>
 <context>
@@ -885,7 +885,7 @@
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_apps_page.ui" line="14"/>
         <source>Startup Apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicacion a l’aviada</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_apps_page.ui" line="101"/>
@@ -1309,7 +1309,7 @@
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="82"/>
         <source>Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menú</translation>
     </message>
 </context>
 </TS>
